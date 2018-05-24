@@ -1,0 +1,42 @@
+[
+  {
+    "nombre": "La Gringa",
+    "ubicacion": {
+      "lat": -32.434106,
+      "lng": -63.182758
+    },
+    "descripcion": "Chori - Mila - Lomito - Hamburguesa"
+  },
+  {
+    "nombre": "Bondiola al paso",
+    "ubicacion": {
+      "lat": -32.410322,
+      "lng": -63.264372
+    },
+    "descripcion": "Bondiola - Vacío - Churrasquito - Chori - Hamburguesa"
+  },
+  {
+    "nombre": "El Ombu",
+    "ubicacion": {
+      "lat": -32.422809,
+      "lng": -63.211130
+    },
+    "descripcion": "Lomito - Hamburguesa - Chori - Pizetas - Pancho"
+  },
+  {
+    "nombre": "La Técnica",
+    "ubicacion": {
+      "lat": -32.389634,
+      "lng": -63.241537
+    },
+    "descripcion": "Descripción"
+  },
+  {
+    "nombre": "Rotonda",
+    "ubicacion": {
+      "lat": -32.390609,
+      "lng": -63.242004
+    },
+    "descripcion": "Descripción"
+  }
+]
