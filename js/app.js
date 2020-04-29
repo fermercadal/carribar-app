@@ -82,7 +82,7 @@ var getJSON = function(url, successHandler, errorHandler) {
 	};
 	xhr.send();
 };
-getJSON('http://localhost/carri-bar/js/carritos.json', function(data) {
+getJSON('https://fermercadal.github.io/js_carribar-app/js/carritos.json', function(data) {
   var carritosJSON = data;
   carritosJSON.forEach(function(carrito){
     // Agregar carrutos a la lista
